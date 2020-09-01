@@ -7,11 +7,8 @@
 6. Percy Jackson Series
 7. Dragons of Autumn Twilight (Tim Herbert)
 8. Educated (Daniella)
-<<<<<<< HEAD
 9. Sin City [Ryan Veach]
 10. Night
 11. Cell (David W)
-10. Batman the Dark Knight
-=======
-9. Imperfect Passage (Tanner Borgeson)
->>>>>>> 8c0e3938090bb92045b74190494d41fac5410156
+12. Batman the Dark Knight
+13. 1984
