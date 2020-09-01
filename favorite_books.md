@@ -5,4 +5,7 @@
 4. Stormbringer
 5. Twilight
 6. Percy Jackson Series
-7. Batman the Dark Knight
+7. Batman the Dark Knight8
+8. Dragons of Autumn Twilight (Tim Herbert)
+
+
