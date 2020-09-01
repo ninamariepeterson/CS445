@@ -6,4 +6,7 @@
 5. Twilight
 6. Percy Jackson Series
 7. Dragons of Autumn Twilight (Tim Herbert)
-8. Cell by Stephen King
+8. Educated (Daniella)
+9. Sin City [Ryan Veach]
+10. Night
+11. Cell (David W)
