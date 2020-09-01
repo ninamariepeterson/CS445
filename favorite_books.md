@@ -5,4 +5,5 @@
 4. Stormbringer
 5. Twilight
 6. Percy Jackson Series
-7. Educated
+7. Dragons of Autumn Twilight (Tim Herbert)
+8. Educated (Daniella)
