@@ -5,7 +5,7 @@
 4. Stormbringer
 5. Twilight
 6. Percy Jackson Series
-7. Batman the Dark Knight8
-8. Dragons of Autumn Twilight (Tim Herbert)
-
-
+7. Dragons of Autumn Twilight (Tim Herbert)
+8. Educated (Daniella)
+9. Sin City [Ryan Veach]
+10. Batman the Dark Knight
