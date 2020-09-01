@@ -3,5 +3,4 @@
 2. Seventh Gate
 3. Path of Daggers
 4. Stormbringer
-5. Twilight
-6. Percy Jackson Series
+5. Such a Pretty Face \\Rachel
