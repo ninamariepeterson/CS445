@@ -5,4 +5,5 @@
 4. Stormbringer
 5. Twilight
 6. Percy Jackson Series
-7. Sin City [Ryan Veach]
+7. Dragons of Autumn Twilight (Tim Herbert)
+8. Sin City [Ryan Veach]
