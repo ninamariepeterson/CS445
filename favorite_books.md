@@ -1,5 +1,5 @@
 # Books
-1.skdjglkj DragonWing
+1. skdjglkj DragonWing
 2. Seventh Gate
 3. Path of Daggers
 4. Stormbringer
@@ -10,3 +10,4 @@
 9. Sin City [Ryan Veach]
 10. Night
 11. Cell (David W)
+10. Batman the Dark Knight
