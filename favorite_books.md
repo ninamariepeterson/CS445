@@ -7,3 +7,4 @@
 6. Percy Jackson Series
 7. Dragons of Autumn Twilight (Tim Herbert)
 8. Educated (Daniella)
+9. Imperfect Passage (Tanner Borgeson)
