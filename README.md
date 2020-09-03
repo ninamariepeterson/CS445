@@ -14,3 +14,10 @@
 | Course Number     | Course Name                           | Course Instructor     |
 | :-----------------| :-------------------------------------| :---------------------|
 | **CS-445**	    | _Database and Knowledge Management_   | **Nina Peterson**     |
+
+
+## Tims' Courses
+| **Course Number**   |      *Course Title*      |  Instructor Name |
+|----------|:-------------:|------:|
+| CS445 | Databases & Know Mgmt | Nina Peterson |
+| CS392 | Game Engine Design |  Seth Long |
