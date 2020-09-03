@@ -21,3 +21,6 @@
 |----------|:-------------:|------:|
 | **CS445** | *Databases & Know Mgmt* | Nina Peterson |
 | **CS392** | *Game Engine Design* |  Seth Long |
+
+
+[Lewis-Clark State College](https://www.lcsc.edu)
