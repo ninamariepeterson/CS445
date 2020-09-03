@@ -13,4 +13,4 @@
 ## Chris' Courses
 | Course Number     | Course Name                           | Course Instructor     |
 | :-----------------| :-------------------------------------| :---------------------|
-| **CS-445**	    | __Database and Knowledge Management__ | **Nina Peterson**     |
+| **CS-445**	    | _Database and Knowledge Management_   | **Nina Peterson**     |
