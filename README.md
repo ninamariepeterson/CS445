@@ -24,3 +24,10 @@
 
 
 [Lewis-Clark State College](https://www.lcsc.edu)
+
+
+# mkdir (David W)
+`mkdir homework`  
+* making a directory
+* cleaning up a directory
+* organization
