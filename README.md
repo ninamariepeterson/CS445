@@ -9,3 +9,8 @@
 | **CS-392**            | _Game Engine Design_ | Seth         |
 | **CS-226**            | _SQL_           |   Nina |
 | **CS-445**            | _Databases for Data Science_ | Nina |
+
+## Chris' Courses
+| Course Number     | Course Name                           | Course Instructor     |
+| :-----------------| :-------------------------------------| :---------------------|
+| **CS-445**	    | __Database and Knowledge Management__ | **Nina Peterson**     |
