@@ -1,1 +1,1 @@
-A [link](https://youtu.be/yCorwViEz6o "Link to video").
+Here is the [link to our video](https://youtu.be/yCorwViEz6o "Video link").
