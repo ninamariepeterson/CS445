@@ -20,10 +20,12 @@ fruits <- substr(lyric, 15, nchar(lyric))
 # Store the result in a variable called `fruits_e`
 # Hint: see http://www.endmemo.com/program/R/sub.php for a simpmle example (or 
 # use `?gsub`)
+fruits_e <- gsub("a","ee",lyric)
 
 
 # Use the `gsub()` function to substitute all the "a"s in `fruits` with "o".
 # Store the result in a variable called `fruits_o`
+fruits_o <- gsub("a","oo",lyric)
 
 
 # Create a new variable `lyric_e` that is the `intro` combined with the new
