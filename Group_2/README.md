@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ##Group 2 Hyper-Link
 _This is a video explaining the process of Exercise 2 from Chapter 6._
 [How-to: Exercise 2]()
@@ -37,3 +38,8 @@ _This is a video explaining the process of Exercise 2 from Chapter 6._
 * cleaning up a directory
 * organization
 >>>>>>> 19001025c35f7b49292475d7e55d5e031bf8ad9a
+=======
+##Group 2 Hyper-Link
+_This is a video explaining the process of Exercise 2 from Chapter 6._
+[How-to: Exercise 2](https://youtu.be/biyraSI7eCQ)
+>>>>>>> 90c37e5610113082cb4e44a17ce1816b29f456b3
