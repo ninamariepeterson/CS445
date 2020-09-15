@@ -21,12 +21,12 @@ is_twice_as_long("roflcopter", "lol")
 #   "Your second string is longer by N characters"
 #   "Your strings are the same length!"
 describe_difference <- function(a, b){
-  if(nchar(a) == (nchar(b) * 2)){
+  if(nchar(a) == nchar(b)){
     print("Your strings are the same length!")
-  }else if(nchar(a) > (nchar(b) * 2)){
-    print(paste("Your first string is longer by", (nchar(a) - (nchar(b) * 2)), "characters"))
+  }else if(nchar(a) > nchar(b)){
+    print(paste("Your first string is longer by", (nchar(a) - nchar(b)), "characters"))
   }else {
-    print(paste("Your second string is longer by", ((nchar(b) * 2) - nchar(a)), "characters"))
+    print(paste("Your second string is longer by", (nchar(b) - nchar(a)), "characters"))
   }
 }
 
