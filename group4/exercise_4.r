@@ -34,4 +34,4 @@ describe_difference <- function(a, b){
 # to confirm that it works. Make sure to check all 3 conditions1
 describe_difference("test", "te")
 describe_difference("lol", "lol")
-describe_difference("roflcopter", "lol")
+describe_difference("lol", "roflcopter")
