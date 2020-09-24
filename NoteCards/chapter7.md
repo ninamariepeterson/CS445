@@ -7,7 +7,7 @@
 
 **simple vector**
 
-simpleVect<-c(â€œthisâ€,â€isâ€,â€aâ€,â€simpleâ€,â€vectorâ€)
+simpleVect<-c(“this”,”is”,”a”,”simple”,”vector”)
 
 ---
 
