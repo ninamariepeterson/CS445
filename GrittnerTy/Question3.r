@@ -2,6 +2,7 @@ odds <- c(seq(1,99,2))
 
 divisibles <- c(3,5,7,9,13,15)
 
+possibilities <- c("Is not divisible by any", "is divisible by 3", "is divisible by 5", "is divisible by 9", "is divisible by 13", "is divisible by 15")
 
 answers <- c(TRUE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE)
 
