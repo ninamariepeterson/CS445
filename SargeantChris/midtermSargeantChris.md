@@ -1,3 +1,3 @@
-- [Problem 1](https://github.com/ninamariepeterson/CS445/SargeantChris/question1.r)
-- [Problem 2](https://github.com/ninamariepeterson/CS445/SargeantChris/question2.r)
-- [Problem 3](https://github.com/ninamariepeterson/CS445/SargeantChris/question3.r)
+- [Problem 1](https://github.com/ninamariepeterson/CS445/blob/master/SargeantChris/question1.R)
+- [Problem 2](https://github.com/ninamariepeterson/CS445/blob/master/SargeantChris/question2.R)
+- [Problem 3](https://github.com/ninamariepeterson/CS445/blob/master/SargeantChris/question3.R)
