@@ -1,0 +1,15 @@
+person <- list(name = "Jane", number = 2) *This can be made without tags, but not advised
+
+*When printing, each element in the list is it's own element and it prints with $ in front of every list
+
+*To reference an element of a list: person$name or person$number
+
+*To retrieve stored values: person[["name"]]
+
+*To retrieve multiple: person$name$number[1]
+
+*To modify: Person$name <- "Jane Peterson"
+
+*Single brackets returns list while double returns an element
+
+*lappyly(elements, function, modification)

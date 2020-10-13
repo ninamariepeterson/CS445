@@ -1,0 +1,16 @@
+# you can use semicolons to break a line so you can put everything into one line
+test_function <- function(var1,var2){ print(var1); print(var2) }
+
+# comments start with a pound symbol
+# else has to be on the same line of the closing bracket of if statement
+if(var == 1){
+  print("1")
+} else {
+  print("nope")
+}
+
+# Paste is used for concatenation 
+paste("This is a", 400, "level class")
+
+# two ways to generate a sequence
+seq(1,100) == 1:100
